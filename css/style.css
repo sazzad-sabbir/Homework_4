@@ -1,0 +1,22 @@
+.section1 p{
+    background-color: aquamarine;
+}
+
+.section2 form{
+    background-color: rgb(212, 180, 140);
+}
+
+.section1 nav a{
+    padding: 20px;
+    margin: 20px;
+}
+
+.section1 table, th, td{
+    border: 1px solid red;
+    text-align: center;
+}
+
+.section1 img{
+    padding-left: 100px;
+    width: 400px;
+}
